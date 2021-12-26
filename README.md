@@ -1,16 +1,26 @@
-### Hi there 👋
+<h5>Hello I'm Oscar Jeremias</h5>
 
-<!--
-**oscarjeremias/oscarjeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I have some web development experience and would like to share what I know with others.
+</p>
+ 
+ <div><strong>I have experience in:</strong></div>
+ <br />
+<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="20px"/>
+<img src="https://img.icons8.com/color/96/000000/css3.png" width="20px"/>
+<img src="https://img.icons8.com/color/96/000000/html-5.png" width="20px"/>
+<br />
+<br />
+<div><strong>Want to learn:</strong></div>
+<br />
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="20px"/>
+<img src="https://img.icons8.com/color/96/000000/python.png" width="20px"/>
+<img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="20px"/>
+<img src="https://img.icons8.com/color/96/000000/react-native.png" width="20px"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<div>Email: oscarjeremias3@gmail.com</div>
+
+
