@@ -11,6 +11,7 @@ I have some web development experience and would like to share what I know with 
 <img src="https://img.icons8.com/color/96/000000/html-5.png" width="20px"/>
 <img src="https://img.icons8.com/color/96/000000/react-native.png" width="20px"/>
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="20px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
 <br />
 <br />
