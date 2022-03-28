@@ -1,18 +1,12 @@
 # Oscar jeremias 
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 front end developer
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I'm currently looking for work
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 I really like to learn
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-<br><br>
+- 👨‍🏫 I like to share knowledge with other devs
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,4 +29,13 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=oscarjeremias&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjeremias&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
+<br />
+## 🌎 social networks
+
+[LinkedIn]
+[Twitter]
+[Medium]
+[Dev]
+
+
 
