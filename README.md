@@ -21,6 +21,8 @@
 ![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
 ![Tailwind css](https://img.shields.io/badge/-Tailwind%20css-05122A?style=flat&logo=tailwindcss)
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -36,11 +38,14 @@
 <a href="https://medium.com/@oscarjeremiasdev">
 <img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=medium" alt="medium" />
 </a>
-<a href="https://www.linkedin.com/mwlite/in/%C3%B3scar-jeremias-356821235">
+<a href="https://www.linkedin.com/in/%C3%B3scar-jeremias-356821235">
 <img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a>
+<a href="">
 <img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=twitter" alt="twitter"/>
+</a>
+<a href="https://dev.to/oscarjeremiasdev">
+<img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=dev.to" alt="dev"/>
 </a>
 
 
