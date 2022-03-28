@@ -29,17 +29,18 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=oscarjeremias&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjeremias&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-<br />
+<br/>
+
 ## 🌎 social networks
-<br />
-[LinkedIn](https://www.linkedin.com/mwlite/in/%C3%B3scar-jeremias-356821235)
-<br />
-[Twitter]()
-<br />
-[Medium]()
-<br />
-[Dev]()
+
+<a href="https://medium.com/@oscarjeremiasdev">
+<img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=medium" alt="medium" />
+</a>
+<a href="https://www.linkedin.com/mwlite/in/%C3%B3scar-jeremias-356821235">
+<img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a>
+<img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=twitter" alt="twitter"/>
+</a>
 
 
-
-social networks
