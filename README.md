@@ -41,7 +41,7 @@
 <a href="https://www.linkedin.com/in/%C3%B3scar-jeremias-356821235">
 <img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="">
+<a href="https://mobile.twitter.com/oscarJeremiaDev">
 <img src="https://img.shields.io/badge/-oscar%20jeremias-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 <a href="https://dev.to/oscarjeremiasdev">
