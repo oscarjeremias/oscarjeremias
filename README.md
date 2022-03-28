@@ -1,28 +1,35 @@
-<h5>Hello I'm Oscar Jeremias</h5>
+# Oscar jeremias 
 
-<p>
-I have some web development experience and would like to share what I know with others.
+- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+
+- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+
+- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+
+- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+- ⚡ Fun fact **Oneye 😜**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=oscarjeremias&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjeremias&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
- 
- <div><strong>I have experience in:</strong></div>
- <br />
-<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="20px"/>
-<img src="https://img.icons8.com/color/96/000000/css3.png" width="20px"/>
-<img src="https://img.icons8.com/color/96/000000/html-5.png" width="20px"/>
-<img src="https://img.icons8.com/color/96/000000/react-native.png" width="20px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="20px"/>
-<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="20px"/>
-
-<br />
-<br />
-<div><strong>Want to learn:</strong></div>
-<br />
-<img src="https://img.icons8.com/color/96/000000/python.png" width="20px"/>
-<img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="20px"/>
-
-
-<br />
-<br />
-<div>Email: oscarjeremias3@gmail.com</div>
-
 
