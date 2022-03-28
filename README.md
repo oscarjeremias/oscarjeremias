@@ -31,11 +31,15 @@
 </p>
 <br />
 ## 🌎 social networks
+<br />
+[LinkedIn](https://www.linkedin.com/mwlite/in/%C3%B3scar-jeremias-356821235)
+<br />
+[Twitter]()
+<br />
+[Medium]()
+<br />
+[Dev]()
 
-[LinkedIn]
-[Twitter]
-[Medium]
-[Dev]
 
 
-
+social networks
