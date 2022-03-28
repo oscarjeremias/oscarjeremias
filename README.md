@@ -24,6 +24,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)
+![Tailwind css](https://img.shields.io/badge/-Tailwind%20css-05122A?style=flat&logo=tailwindcss)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
