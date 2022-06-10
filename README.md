@@ -23,6 +23,9 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)
+![MySQL](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
